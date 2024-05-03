@@ -21,4 +21,4 @@ N/A
 Please refer to the LICENSE in the repo.
 
 ## Deployed Application
-fff
+https://geomaster101.github.io/Java-Task_Board/
